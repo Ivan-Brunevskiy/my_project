@@ -1,0 +1,14 @@
+{
+    "name": "vagrant/tms_php",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "ext-mbstring": "*"
+    },
+    "require-dev": {
+
+    }
+}
